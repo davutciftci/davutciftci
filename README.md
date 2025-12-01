@@ -5,7 +5,7 @@
   
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba!+Ben+Davut+Çiftçi;Bir+Yazılım+Geliştiricisiyim.&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&size=26" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba!+Ben+Davut+Çiftçi.;&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&size=26" alt="Typing SVG" />
   </a>
   
 <br/>
