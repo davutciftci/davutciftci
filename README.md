@@ -41,6 +41,8 @@ const developer = {
 - 👯 **Açık kaynak** projelerde işbirliği yapmaya açığım.
 - 💬 Bana **teknoloji, kodlama veya video oyunları** hakkında soru sorabilirsiniz.
 - 📫 Bana ulaşın: **davutbciftci@gmail.com**
+- 📝 Makalelerim için: https://medium.com/@davutbciftci
+- 📄 Deneyimlerim hakkında https://www.linkedin.com/in/davutciftci/
 
 ---
 
