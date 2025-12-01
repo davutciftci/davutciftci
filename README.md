@@ -87,12 +87,12 @@ const developer = {
 
 <div align="center">
 
-  <!-- Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=davutciftci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+  <br/>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   </a>
-
-
 </div>
 
 ---
