@@ -33,7 +33,6 @@ const developer = {
     code: ["Javascript"],
     tools: ["React", "Node.js", "Next.js"],
     passion: "Teknoloji ve İnsan Psikolojisi",
-    challenge: "Her gün yeni bir şeyler öğrenmek!"
 }
 ```
 
