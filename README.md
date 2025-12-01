@@ -1,9 +1,5 @@
 <!--
-**Merhaba! Ben [Davut Çiftçi]!**
-
-Bu README dosyası GitHub profilinizde görünecek. Aşağıdaki şablonu kendi bilgilerinizle düzenleyebilirsiniz.
-"YOUR_USERNAME" yazan yerleri kendi GitHub kullanıcı adınızla değiştirmeyi unutmayın!
--->
+**Merhaba! Ben Davut Çiftçi**
 
 <div align="center">
   
@@ -41,7 +37,7 @@ const developer = {
 - 🌱 **Rust** ve **WebAssembly** öğreniyorum.
 - 👯 **Açık kaynak** projelerde işbirliği yapmaya açığım.
 - 💬 Bana **teknoloji, kodlama veya video oyunları** hakkında soru sorabilirsiniz.
-- 📫 Bana ulaşın: **email@example.com**
+- 📫 Bana ulaşın: **davutbciftci@gmail.com**
 
 ---
 
@@ -106,11 +102,6 @@ const developer = {
 </div>
 
 ---
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/davutciftci/davutciftci/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 <!-- Footer -->
 <div align="center">
