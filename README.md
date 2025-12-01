@@ -1,18 +1,18 @@
 <!--
-**Merhaba! Ben Davut Çiftçi**
+**Hi! I'm Davut Çiftçi**
 
 <div align="center">
   
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba!+Ben+Davut+Çiftçi.;&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&size=26" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Davut+Çiftçi.;&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&size=26" alt="Typing SVG" />
   </a>
   
 <br/>
 
-- 📫 Bana ulaşın: **davutbciftci@gmail.com**
-- 📝 Makalelerim için: https://medium.com/@davutbciftci
-- 📄 Deneyimlerim hakkında: https://www.linkedin.com/in/davutciftci/
+- 📫 Contact me: **davutbciftci@gmail.com**
+- 📝 For my articles: https://medium.com/@davutbciftci
+- 📄 About my experiences: https://www.linkedin.com/in/davutciftci/
   
   <br/>
 
@@ -24,29 +24,29 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hakkımda
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About
 
 ```javascript
 const developer = {
     name: "Davut Çiftçi",
-    role: "Full Stack Developer", "Psikolog",
+    role: "Full Stack Developer", "Psychologist",
     code: ["Javascript"],
     tools: ["React", "Node.js", "Next.js"],
-    passion: "Teknoloji ve İnsan Psikolojisi",
+    passion: "Technology and Human Psychology",
 }
 ```
 
-👋 Merhaba! Ben açık kaynak projelere katkıda bulunmayı ve yeni teknolojiler keşfetmeyi seven tutkulu bir geliştiriciyim.
+👋 Hi! I am a passionate developer who loves contributing to open source projects and discovering new technologies.
 
-- 💻 **Geliştirici** olarak, açık kaynak projelere katkıda bulunmayı ve yeni teknolojiler keşfetmeyi seviyorum.
-- 🧠 **Psikolog** olarak, özellikle **işitme engelli çiftçilere Türk İşaret Dili (TİD)** ile psikolojik danışmanlık veriyorum.
-- 🔭 Şu anda **harika bir proje** üzerinde çalışıyorum.
-- 👯 **Açık kaynak** projelerde işbirliği yapmaya açığım.
-- 💬 Bana **teknoloji ve kodlama** hakkında soru sorabilirsiniz.
+- 💻 As a **developer**, I enjoy contributing to open source projects and discovering new technologies.
+- 🧠 As a **psychologist**, I provide psychological counseling, particularly to **hearing-impaired farmers using Turkish Sign Language (TID)**.
+- 🔭 I am currently working on an **amazing project**.
+- 👯 I am open to collaborating on **open source** projects.
+- 💬 Feel free to ask me questions about **technology and coding**.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
+### 🛠️ Technologies and Tools I Use
 
 <div align="center">
 
@@ -81,7 +81,7 @@ const developer = {
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 My GitHub Statistics
 
 <div align="center">
 
