@@ -23,10 +23,10 @@
 
 ```javascript
 const developer = {
-    name: "Adınız Soyadınız",
+    name: "Davut Çiftçi",
     role: "Full Stack Developer",
-    code: ["Javascript", "Python", "Go"],
-    tools: ["React", "Node.js", "Docker"],
+    code: ["Javascript"],
+    tools: ["React", "Node.js", "Next.js"],
     challenge: "Her gün yeni bir şeyler öğrenmek!"
 }
 ```
