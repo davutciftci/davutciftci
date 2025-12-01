@@ -5,7 +5,7 @@
   
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba!+Ben+Davut+Çiftçi;Bir+Yazılım+Geliştiricisiyim&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&size=26" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba!+Ben+Davut+Çiftçi;Bir+Yazılım+Geliştiricisiyim.&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&size=26" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -24,15 +24,18 @@
 ```javascript
 const developer = {
     name: "Davut Çiftçi",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer", "Psikolog",
     code: ["Javascript"],
     tools: ["React", "Node.js", "Next.js"],
+    passion: "Teknoloji ve İnsan Psikolojisi",
     challenge: "Her gün yeni bir şeyler öğrenmek!"
 }
 ```
 
 👋 Merhaba! Ben açık kaynak projelere katkıda bulunmayı ve yeni teknolojiler keşfetmeyi seven tutkulu bir geliştiriciyim.
 
+- 💻 **Geliştirici** olarak, açık kaynak projelere katkıda bulunmayı ve yeni teknolojiler keşfetmeyi seviyorum.
+- 🧠 **Psikolog** olarak, özellikle **işitme engelli çiftçilere Türk İşaret Dili (TİD)** ile psikolojik danışmanlık veriyorum.
 - 🔭 Şu anda **harika bir proje** üzerinde çalışıyorum.
 - 🌱 **Rust** ve **WebAssembly** öğreniyorum.
 - 👯 **Açık kaynak** projelerde işbirliği yapmaya açığım.
