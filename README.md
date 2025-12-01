@@ -93,13 +93,6 @@ const developer = {
   </a>
 
 
-  <br/>
-
-  <!-- Streak Stats -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=davutciftci&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
-
 </div>
 
 ---
