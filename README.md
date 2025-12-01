@@ -37,9 +37,8 @@ const developer = {
 - 💻 **Geliştirici** olarak, açık kaynak projelere katkıda bulunmayı ve yeni teknolojiler keşfetmeyi seviyorum.
 - 🧠 **Psikolog** olarak, özellikle **işitme engelli çiftçilere Türk İşaret Dili (TİD)** ile psikolojik danışmanlık veriyorum.
 - 🔭 Şu anda **harika bir proje** üzerinde çalışıyorum.
-- 🌱 **Rust** ve **WebAssembly** öğreniyorum.
 - 👯 **Açık kaynak** projelerde işbirliği yapmaya açığım.
-- 💬 Bana **teknoloji, kodlama veya video oyunları** hakkında soru sorabilirsiniz.
+- 💬 Bana **teknoloji ve kodlama** hakkında soru sorabilirsiniz.
 - 📫 Bana ulaşın: **davutbciftci@gmail.com**
 - 📝 Makalelerim için: https://medium.com/@davutbciftci
 - 📄 Deneyimlerim hakkında: https://www.linkedin.com/in/davutciftci/
