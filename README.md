@@ -76,6 +76,8 @@ const developer = {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="antigravity" />
 
 </div>
 
