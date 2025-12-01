@@ -1,16 +1,118 @@
-## Hi there 👋
-
 <!--
-**davutciftci/davutciftci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Merhaba! Ben [Davut Çiftçi]!**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Bu README dosyası GitHub profilinizde görünecek. Aşağıdaki şablonu kendi bilgilerinizle düzenleyebilirsiniz.
+"YOUR_USERNAME" yazan yerleri kendi GitHub kullanıcı adınızla değiştirmeyi unutmayın!
 -->
+
+<div align="center">
+  
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba!+Ben+Bir+Geliştiriciyim;Kod+Yazmayı+Seviyorum;Açık+Kaynak+Meraklısıyım&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&size=26" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Profile Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=davutciftci&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy" />
+  </a>
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hakkımda
+
+```javascript
+const developer = {
+    name: "Adınız Soyadınız",
+    role: "Full Stack Developer",
+    code: ["Javascript", "Python", "Go"],
+    tools: ["React", "Node.js", "Docker"],
+    challenge: "Her gün yeni bir şeyler öğrenmek!"
+}
+```
+
+👋 Merhaba! Ben açık kaynak projelere katkıda bulunmayı ve yeni teknolojiler keşfetmeyi seven tutkulu bir geliştiriciyim.
+
+- 🔭 Şu anda **harika bir proje** üzerinde çalışıyorum.
+- 🌱 **Rust** ve **WebAssembly** öğreniyorum.
+- 👯 **Açık kaynak** projelerde işbirliği yapmaya açığım.
+- 💬 Bana **teknoloji, kodlama veya video oyunları** hakkında soru sorabilirsiniz.
+- 📫 Bana ulaşın: **email@example.com**
+
+---
+
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+<div align="center">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />
+  
+  <br/>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+
+  <br/>
+
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+
+  <br/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+
+</div>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+  <!-- Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=davutciftci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davutciftci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
+
+  <br/>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=davutciftci&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/davutciftci/davutciftci/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
