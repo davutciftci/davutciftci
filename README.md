@@ -15,11 +15,7 @@
 - 📄 About my experiences: https://www.linkedin.com/in/davutciftci/
   
   <br/>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=davutciftci&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy" />
-  </a>
-
+  
 </div>
 
 ---
