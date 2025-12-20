@@ -79,10 +79,14 @@ const developer = {
 
 ### 📊 My GitHub Statistics
 
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddavutciftci%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Davut'un GitHub İstatistikleri" height="170" />
+### 📊 GitHub İstatistiklerim
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddavutciftci%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" height="170" />
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddavutciftci%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="En Çok Kullanılan Diller" height="170" /> </div>
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davutciftci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Davut'un GitHub İstatistikleri" height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davutciftci&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davutciftci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="En Çok Kullanılan Diller" height="170" />
+</div>
