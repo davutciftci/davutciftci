@@ -80,11 +80,9 @@ const developer = {
 ### 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davutciftci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Davut'un GitHub İstatistikleri" height="170" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davutciftci&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davutciftci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Davut's GitHub Statistics" height="170" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davutciftci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="En Çok Kullanılan Diller" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davutciftci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Commonly Used Languages" height="170" />
 </div>
