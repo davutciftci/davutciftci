@@ -79,8 +79,6 @@ const developer = {
 
 ### 📊 My GitHub Statistics
 
-### 📊 GitHub İstatistiklerim
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davutciftci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Davut'un GitHub İstatistikleri" height="170" />
   
