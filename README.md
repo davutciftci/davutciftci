@@ -79,16 +79,10 @@ const developer = {
 
 ### 📊 My GitHub Statistics
 
-<div align="center">
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddavutciftci%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Davut'un GitHub İstatistikleri" height="170" />
 
-  <br/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddavutciftci%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" height="170" />
 
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=davutciftci&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
-</div>
----
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddavutciftci%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="En Çok Kullanılan Diller" height="170" /> </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div>
