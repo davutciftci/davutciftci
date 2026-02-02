@@ -34,11 +34,11 @@ const developer = {
 
 👋 Hi! I am a passionate developer who loves contributing to open source projects and discovering new technologies.
 
-- 💻 As a **developer**, I enjoy contributing to open source projects and discovering new technologies.
-- 🧠 As a **psychologist**, I provide psychological counseling, particularly to **hearing-impaired farmers using Turkish Sign Language (TID)**.
-- 🔭 I am currently working on an **amazing project**.
-- 👯 I am open to collaborating on **open source** projects.
-- 💬 Feel free to ask me questions about **technology and coding**.
+-  As a **developer**, I enjoy contributing to open source projects and discovering new technologies.
+-  As a **psychologist**, I provide psychological counseling, particularly to **hearing-impaired farmers using Turkish Sign Language (TID)**.
+-  I am currently working on an **amazing project**.
+-  I am open to collaborating on **open source** projects.
+-  Feel free to ask me questions about **technology and coding**.
 
 ---
 
