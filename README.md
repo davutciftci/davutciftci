@@ -11,7 +11,7 @@
 <br/>
 
 - 📫 Contact me: **davutbciftci@gmail.com**
-- 📝 For my articles: https://medium.com/@davutbciftci
+- 📝 For my articles: https://medium.com/@davutciftci
 - 📄 About my experiences: https://www.linkedin.com/in/davutciftci/
   
   <br/>
